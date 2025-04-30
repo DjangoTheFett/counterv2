@@ -34,3 +34,8 @@ button {
 #decrease {
     color: red;
 }
+
+img{
+    height: 300px;
+    width: 250px;
+}
