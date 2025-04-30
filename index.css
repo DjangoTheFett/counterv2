@@ -1,0 +1,36 @@
+body {
+     display: flex;
+     height: 100vh;
+     justify-content: center;
+     align-items: center;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background-color: aquamarine;
+     color:rgb(82, 5, 226);
+    
+}
+
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+button {
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+#increase { 
+    color: green;
+
+
+}
+
+#decrease {
+    color: red;
+}
